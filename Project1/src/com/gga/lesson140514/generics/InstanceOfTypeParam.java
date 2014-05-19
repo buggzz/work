@@ -12,4 +12,6 @@ public class InstanceOfTypeParam {
 		
 		List<Integer> l = (List<Integer>) list;
 	}
+	
+	
 }
