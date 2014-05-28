@@ -35,10 +35,6 @@ public class CollectionExample {
 		for (String array : arrayOfNames) {
 			System.out.println(array);
 		}
-		
 	}
-	
-	
-	
 
 }

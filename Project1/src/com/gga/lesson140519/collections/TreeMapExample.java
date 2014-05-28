@@ -13,8 +13,7 @@ public class TreeMapExample {
 		people.put("Mary", "Oston");
 		people.put("Mary", "Chicago");
 		System.out.println(people);
-		
-		people.
+
 	}
 	
 
