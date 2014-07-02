@@ -3,7 +3,7 @@ package com.gga.lesson140224;
 public class E {
 
 	public static void main(String[] args) {
-		int a[] = { 10, 20, 40, -20, 40, 67};
+		int a[] = { 10, 20, 40, -20, 40, 67 };
 		
 		int index = find(a, 40, 2);
 		
