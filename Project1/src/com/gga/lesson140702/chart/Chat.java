@@ -33,7 +33,7 @@ public class Chat {
     	ChatServer server = new ChatServer();
     	
     	ChatClient c1 = new ChatClient("Pete");
-    	ChatClient c2 = new ChatClient("Ann");
+    	ChatClient c2 = new SlowChatClient("Ann");
     	ChatClient c3 = new ChatClient("John");
 	
     	server.addClient(c1);
